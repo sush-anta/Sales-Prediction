@@ -22,9 +22,8 @@ This project focuses on forecasting product sales using machine learning techniq
 
 A predictive model that assists businesses in making informed decisions to enhance sales performance by optimizing marketing strategies.
 
-## Project Structure
-
 ##Data
+
 car_purchasing.csv
 
 ## Installation
