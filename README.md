@@ -22,7 +22,7 @@ This project focuses on forecasting product sales using machine learning techniq
 
 A predictive model that assists businesses in making informed decisions to enhance sales performance by optimizing marketing strategies.
 
-##Data
+##Dataset
 
 car_purchasing.csv
 
@@ -59,9 +59,6 @@ python src/evaluate.py
 
 SUSHANTA BHUNIA
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
