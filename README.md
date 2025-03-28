@@ -24,21 +24,8 @@ A predictive model that assists businesses in making informed decisions to enhan
 
 ## Project Structure
 
-```
-├── data
-│   ├── raw_data.csv  # Raw dataset
-│   ├── processed_data.csv  # Preprocessed dataset
-├── notebooks
-│   ├── data_preprocessing.ipynb  # Data cleaning and feature engineering
-│   ├── model_training.ipynb  # Model development and training
-│   ├── evaluation.ipynb  # Model evaluation and analysis
-├── src
-│   ├── train.py  # Training script
-│   ├── evaluate.py  # Model evaluation script
-├── README.md  # Project documentation
-├── requirements.txt  # Dependencies list
-├── report.pdf  # Summary of findings
-```
+##Data
+car_purchasing.csv
 
 ## Installation
 
